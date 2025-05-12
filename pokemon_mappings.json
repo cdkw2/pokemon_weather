@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "author": "cdkw2",
+    "last_updated": "2025-05-12"
+  },
+  "mappings": {
+    "Sunny": {
+      "pokemon": "Groudon",
+      "message": "☀️ Groudon is scorching the skies!",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/383.gif"
+    },
+    "Mostly Sunny": {
+      "pokemon": "Charizard",
+      "message": "🌤️ Charizard is flying high!",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif"
+    },
+    "Rain": {
+      "pokemon": "Kyogre",
+      "message": "🌧️ Kyogre is flooding the streets!",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/382.gif"
+    },
+    "Thunderstorm": {
+      "pokemon": "Thundurus",
+      "message": "⚡ Thundurus is crackling with energy!",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/642-therian.gif"
+    },
+    "Snow": {
+      "pokemon": "Alolan Ninetales",
+      "message": "❄️ Alolan Ninetales is dancing gracefully!",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif"
+    },
+    "Fog": {
+      "pokemon": "Misdreavus",
+      "message": "🌫️ Misdreavus is lurking in the mist...",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/200.gif"
+    },
+    "Windy": {
+      "pokemon": "Tornadus",
+      "message": "🌪️ Tornadus is whipping up a tornado!",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/641.gif"
+    },
+    "_default": {
+      "pokemon": "Unown",
+      "message": "🌍 A wild Unown appeared! Weather unknown...",
+      "gif": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/201.gif"
+    }
+  }
+}
